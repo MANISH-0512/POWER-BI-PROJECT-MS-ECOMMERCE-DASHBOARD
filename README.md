@@ -1,6 +1,6 @@
 # POWER-BI-PROJECT-MS-ECOMMERCE-DASHBOARD
 
-**Executive Summary**
+## Executive Summary :
 
 1.This project focuses on analyzing MS E-commerce sales data using Microsoft Power BI and Excel to derive actionable business insights.
 
@@ -12,7 +12,7 @@
 
 5.The final outcome supports data-driven decision-making to improve overall business performance.
 
-**Business Problem**
+## Business Problem :
 
 1.The organization lacks a single, consolidated view of e-commerce sales data.
 
@@ -24,7 +24,7 @@
 
 5.Absence of visual reporting makes it time-consuming for leadership to evaluate performance.
 
-**Methodology**
+## Methodology :
 
 1.Imported raw MS E-commerce sales data into Excel for initial exploration and cleaning.
 
@@ -36,7 +36,7 @@
 
 5.Conducted trend, category, and regional analysis to generate actionable insights.
 
-**Skills & Tools Used**
+## Skills & Tools Used :
 
 1.Microsoft Power BI – data modeling, DAX calculations, and dashboard design.
 
@@ -48,7 +48,7 @@
 
 5.Analytical & Critical Thinking – interpreting data to solve business problems.
 
-**Results**
+## Results :
 
 1.Identified top-performing products and categories driving the majority of revenue.
 
@@ -60,7 +60,7 @@
 
 5.Enabled faster and more accurate management decision-making through interactive dashboards.
 
-**Next Steps / Recommendations**
+## Next Steps / Recommendations :
 
 1.Integrate real-time or more recent data to enhance decision-making.
 
